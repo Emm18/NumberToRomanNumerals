@@ -3,7 +3,4 @@ Convert Number to Roman Numerals
 
   Example
   
-  
-         Input = 94
-         Output = XCIV
-         Limitations = Only input numbers
+  ![roman numerals](https://user-images.githubusercontent.com/47067649/53133434-0330bb00-3528-11e9-8f12-a5fc0e6c7fe6.png)
